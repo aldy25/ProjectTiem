@@ -2892,11 +2892,16 @@
     ]
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\1913\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\1874\\.nuget\\packages\\": {}
+>>>>>>> 1e73618a53d9518e26961e87ccb6860f6fb49083
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\1913\\Desktop\\ProjectTiem\\ProjectTiem\\src\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
       "projectPath": "C:\\Users\\1913\\Desktop\\ProjectTiem\\ProjectTiem\\src\\DataAccess\\DataAccess.csproj",
@@ -2905,6 +2910,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1913\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+      "projectUniqueName": "C:\\Bootcamp\\Phoenix\\src\\DataAccess\\DataAccess.csproj",
+      "projectName": "DataAccess",
+      "projectPath": "C:\\Bootcamp\\Phoenix\\src\\DataAccess\\DataAccess.csproj",
+      "packagesPath": "C:\\Users\\1874\\.nuget\\packages\\",
+      "outputPath": "C:\\Bootcamp\\Phoenix\\src\\DataAccess\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\1874\\AppData\\Roaming\\NuGet\\NuGet.Config",
+>>>>>>> 1e73618a53d9518e26961e87ccb6860f6fb49083
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
